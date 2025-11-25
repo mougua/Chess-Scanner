@@ -1,0 +1,7 @@
+{
+  "name": "OP-1 Chess Scanner",
+  "description": "A retro-synthesizer inspired chess position scanner and editor. Upload or snap a chessboard photo, analyze it with Gemini 3 Pro, and export to Lichess.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
